@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SKBotNL
-- 👀 I’m interested in making python programs
+- 👀 I’m interested in making Python programs
 
 <!---
 SKBotNL/SKBotNL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
