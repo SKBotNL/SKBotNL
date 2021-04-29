@@ -3,7 +3,7 @@
 - 🌱 I’m currently extending my Python knowledge.
 - 🏢 I am part of @FreeTechnologies
 
-[![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!---
 SKBotNL/SKBotNL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
