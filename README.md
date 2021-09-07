@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SKBotNL
+- 👋 Hi, I’m [SKBotNL](https://github.com/SKBotNL)
 - 👀 I’m interested in making Python and C# programs
 - 🌱 I’m currently extending my Python and C# knowledge
 - 👥 [FOSS-Devs](https://github.com/FOSS-Devs)
