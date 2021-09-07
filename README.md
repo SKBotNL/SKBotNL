@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SKBotNL
 - 👀 I’m interested in making Python and C# programs
 - 🌱 I’m currently extending my Python and C# knowledge
-- 👥 @FOSS-Devs
+- 👥 [FOSS-Devs](https://github.com/FOSS-Devs)
 
 [![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)](https://www.github.com/SKBotNL)
 
