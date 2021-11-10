@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [SKBotNL](https://github.com/SKBotNL)
 - 👀 I’m interested in making C# programs
-- 🌱 I’m currently extending my C# knowledge
+- 🌱 I’m trying to learn C++
 - 👥 [Fossium](https://github.com/Fossium-Team)
 
 [![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)](https://www.github.com/SKBotNL)
