@@ -1,7 +1,8 @@
 - 👋 Hi, I’m [SKBotNL](https://github.com/SKBotNL)
-- 👀 I’m interested in making C# programs
+- 👀 I’m interested in making Go programs
 - 🌱 I’m learning Ruby and Go
 - 👥 [Fossium](https://github.com/Fossium-Team)
+- ⚡ [Lightningcord](https://github.com/Lightningcord)
 
 [![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)](https://www.github.com/SKBotNL)
 
