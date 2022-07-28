@@ -12,4 +12,6 @@ Languages I know\
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Python" width="40" height="40"/> </a>\
 IDE's/Editors I use\
 <a href="https://www.eclipse.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> </a>
+
