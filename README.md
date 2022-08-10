@@ -4,6 +4,7 @@
 [![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)](https://www.github.com/SKBotNL)
 
 Languages I know\
+<a href="https://www.rust-lang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/java/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> </a>
