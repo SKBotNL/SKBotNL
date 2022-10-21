@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [SKBotNL](https://github.com/SKBotNL)
-- I'm currently working on 🔥[Firestone](https://github.com/Firestoners/Firestone)
+- ~~I'm currently working on~~ I need ideas
 - 🇫 [Fossium](https://github.com/Fossium-Team)
 
 [![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)](https://www.github.com/SKBotNL)
