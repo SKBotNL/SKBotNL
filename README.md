@@ -1,6 +1,5 @@
 - 👋 Hi, I’m [SKBotNL](https://github.com/SKBotNL)
-- ~~I'm currently working on~~ I need ideas
-- 🇫 [Fossium](https://github.com/Fossium-Team)
+- I'm currently working on [Zanocord](https://github.com/Zanocord)
 
 ![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)
 
