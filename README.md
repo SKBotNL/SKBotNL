@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [SKBotNL](https://github.com/SKBotNL)
-- I'm currently working on [Zanocord](https://github.com/Zanocord)
+- I'm currently working on Versi (Matrix Client)
 
 ![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)
 
