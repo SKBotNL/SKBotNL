@@ -1,4 +1,4 @@
-👋 Hi, I’m [SKBotNL](https://github.com/SKBotNL)
+👋 Hi, I’m Sven, also known as SKBotNL
 
 ![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKBotNL&layout=compact&theme=dark)
