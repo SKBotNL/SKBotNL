@@ -1,7 +1,6 @@
 👋 Hi, I’m Sven, also known as SKBotNL
 
-![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKBotNL&layout=compact&theme=dark)
+![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)
 
 Languages I regularly use\
 ![Languages](https://skillicons.dev/icons?i=go,rust,kotlin,python&theme=dark)
