@@ -1,4 +1,5 @@
-👋 Hi, I’m Sven, also known as SKBotNL
+👋 Hi, I’m Sven, also known as SKBotNL.\
+🌱 I'm learning reverse engineering and cybersecurity.
 
 ![SKBotNL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKBotNL&theme=dark)
 
